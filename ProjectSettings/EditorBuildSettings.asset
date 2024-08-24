@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Initialization.unity
+    guid: d540079fd53d2ba4e9152e4ea87da4ac
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 2a8798afdebc7064587b7b8be9d9b8ba
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d422aab6645482247af3c32890c20cf2
+  - enabled: 1
+    path: Assets/Scenes/Gridshot.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GridshotResults.unity
+    guid: 6022ba694e366af479ea08cb349b16a9
+  - enabled: 1
+    path: Assets/Scenes/Lineshot.unity
+    guid: 6a875d61539c4374a8a93b89f5adf229
+  - enabled: 1
+    path: Assets/Scenes/LineshotResults.unity
+    guid: 55fb08c86a556c54cbdadbab7ad46cdd
+  - enabled: 1
+    path: Assets/Scenes/Flickshot.unity
+    guid: 60795be7e8c3d034cac157b2e91ae071
+  - enabled: 1
+    path: Assets/Scenes/FlickshotResults.unity
+    guid: f33433dc6397bfc46a3a7cd6f6a6ed20
+  - enabled: 1
+    path: Assets/Scenes/Tracking.unity
+    guid: 8be8005b83822cd4cbcb170a0d943d37
+  - enabled: 1
+    path: Assets/Scenes/TrackingResults.unity
+    guid: e47bae5149205de4d91e786ad768a952
+  - enabled: 1
+    path: Assets/Scenes/Tracking_sfMode.unity
+    guid: 61c31125cd8898d4d93bb271570815cc
+  - enabled: 1
+    path: Assets/Scenes/Tracking_sfModeResults.unity
+    guid: c5071902088bf53449e63bdff27e3307
+  - enabled: 1
+    path: Assets/Scenes/Lineshot_sfMode.unity
+    guid: b31de0a97051c664c94b32a4b2023386
+  - enabled: 1
+    path: Assets/Scenes/Lineshot_sfModeResults.unity
+    guid: 0bee8e354e4a1284da6d74fac5f230fa
+  - enabled: 1
+    path: Assets/Scenes/Flickshot_sfMode.unity
+    guid: 5101000c5e5209d4297c72a3515644d2
+  - enabled: 1
+    path: Assets/Scenes/Flickshot_sfModeResults.unity
+    guid: c07ddc8b12dac8e4883c2e2fac00c04a
+  - enabled: 1
+    path: Assets/Scenes/SensitivityFinderResults.unity
+    guid: cca7c91d327476747890ffe2396c58d5
+  - enabled: 1
+    path: Assets/Scenes/Lineshot_sfModeResultsLast.unity
+    guid: 72f385363f594034a87735fbc7759898
+  m_configObjects: {}
